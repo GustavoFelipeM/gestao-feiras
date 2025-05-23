@@ -3,7 +3,7 @@
 ## Integrantes do Grupo
 - Gustavo Felipe Penha do Monte - gustavo.felipem@ufrpe.br
 - Lucas Carvalho do Espirito Santo - lucasesanto2016@gmail.com
-- 
+
 ## Requisitos
 
 ### 1. Gerenciamento de Produtores
