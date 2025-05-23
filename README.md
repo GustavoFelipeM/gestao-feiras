@@ -60,7 +60,6 @@
 - **JUnit / Mockito** – Testes para regras de participação e controle de vendas.
 ## Imagem
 ![Diagrama de Classe](https://github.com/user-attachments/assets/8ec14dc8-5dcb-4039-b47a-181cc00ea709)
-()
 
 ## Link do repositorio
 Faço parte do grupo e este é o link para o repositório GitHub https://github.com/GustavoFelipeM/gestao-feiras/
